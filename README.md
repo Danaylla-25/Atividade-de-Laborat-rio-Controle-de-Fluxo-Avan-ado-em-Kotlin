@@ -1,4 +1,4 @@
-# Atividade-de-Laborat-rio-Controle-de-Fluxo-Avan-ado-em-Kotlin
+# Atividade-de-Laboratório-Controle-de-Fluxo-Avançado-em-Kotlin
 
 Repositório criado para a resolução da Atividade de Laboratório sobre estruturas de repetição, condicionais e manipulação do fluxo de execução em Kotlin.
 

@@ -1,7 +1,5 @@
 # Atividade-de-Laboratório-Controle-de-Fluxo-Avançado-em-Kotlin
 
-Repositório criado para a resolução da Atividade de Laboratório sobre estruturas de repetição, condicionais e manipulação do fluxo de execução em Kotlin.
-
 ## Sobre o Projeto
 Este projeto contém a implementação de 8 exercícios práticos focados no controle de fluxo da linguagem Kotlin. O objetivo principal é dominar a lógica algorítmica de laços de repetição (`for`, `while`) e os comandos de interrupção e salto (`break`, `continue`).
 

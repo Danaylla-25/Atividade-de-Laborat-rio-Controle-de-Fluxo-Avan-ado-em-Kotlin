@@ -27,7 +27,7 @@ fun main() {
         else {
             println("Opção inválida. Tenta novamente!")
         }
-        // Se escolher 1 ou 2, o código chega aqui de forma natural e depois o laço recomeça.
-        // Se escolher 3, o continue impede que o código chegue sequer a esta linha.
+        /* Se escolher 1 ou 2, o código chega aqui de forma natural e depois o laço recomeça.
+        Se escolher 3, o continue impede que o código chegue sequer a esta linha.*/
     }
 }
